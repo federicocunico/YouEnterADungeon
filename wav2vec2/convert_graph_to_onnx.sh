@@ -1,0 +1,1 @@
+python -m transformers.convert_graph_to_onnx --framework pt --model facebook/wav2vec2-base-960h wav2vec2-base-960h.onnx
